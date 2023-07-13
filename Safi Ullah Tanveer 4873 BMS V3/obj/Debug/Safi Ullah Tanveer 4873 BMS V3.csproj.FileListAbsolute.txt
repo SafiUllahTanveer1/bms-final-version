@@ -1,0 +1,7 @@
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\obj\Debug\Safi Ullah Tanveer 4873 BMS V3.csproj.AssemblyReference.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\obj\Debug\Safi Ullah Tanveer 4873 BMS V3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\obj\Debug\Safi Ullah Tanveer 4873 BMS V3.csproj.CoreCompileInputs.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\bin\Debug\Safi_Ullah_Tanveer_4873_BMS_V3.exe
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\bin\Debug\Safi_Ullah_Tanveer_4873_BMS_V3.pdb
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\obj\Debug\Safi_Ullah_Tanveer_4873_BMS_V3.exe
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer 4873 BMS V3\Safi Ullah Tanveer 4873 BMS V3\obj\Debug\Safi_Ullah_Tanveer_4873_BMS_V3.pdb
